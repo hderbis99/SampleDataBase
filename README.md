@@ -9,6 +9,7 @@ string connectionString = $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename
 1. Enrollment of an individual person in the database.
 2. Edit an individual record in the database.
 3. Deleting individual records from the database.
-4. Summary of payments during the period.
-5. Making a copy of the entire database.
-6. After entering the appropriate password, delete all records from the database. 
+4. Searching for individual records in the database.
+5. Summary of payments during the period.
+6. Making a copy of the entire database.
+7. After entering the appropriate password, delete all records from the database. 
